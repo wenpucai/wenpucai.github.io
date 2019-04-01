@@ -57,10 +57,12 @@ header {
     font-family: "Comic Sans MS", cursive, LiSu, sans-serif;
     border-bottom: .3em solid #333; }
     header .container .title {
+      font-family: Calibri;
       color: #EEE;
       text-decoration: none;
       font-size: 2.4em; }
     header .container .subtitle {
+      font-family: Calibri;
       color: #aaa;
       font-size: 1.4em;
       margin-left: 1.2em; }
